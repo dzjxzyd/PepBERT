@@ -12,7 +12,6 @@ PepBERT-large-UniRef90
 
 PepBERT-large-UniRef50
 
-PepBERT-small was available at a different repository at https://github.com/dzjxzyd/PepBERT-small.
 
 You can also download dataset, scripts, and pretrained models, all the checkpoints from GoogleDrive at https://drive.google.com/drive/folders/19y7nsCUJyV_MLzBmFum99htQvCLo47HO?usp=drive_link
 
