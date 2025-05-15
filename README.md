@@ -4,14 +4,13 @@ All pretrained models in this repository have been uploaded to Hugging Face for 
 
 You can access the models at the following links:
 
-PepBERT-large-UniParc
-
-PepBERT-large-UniRef100
-
-PepBERT-large-UniRef90
-
-PepBERT-large-UniRef50
-
+[PepBERT-large-UniParc](https://huggingface.co/dzjxzyd/PepBERT-large-UniParc)
+ 
+[PepBERT-large-UniRef100](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef100)
+  
+[PepBERT-large-UniRef90](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef90)
+   
+[PepBERT-large-UniRef50](https://huggingface.co/dzjxzyd/PepBERT-large-UniRef50)
 
 You can also download dataset, scripts, and pretrained models, all the checkpoints from GoogleDrive at https://drive.google.com/drive/folders/19y7nsCUJyV_MLzBmFum99htQvCLo47HO?usp=drive_link
 
