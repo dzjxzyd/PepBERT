@@ -80,7 +80,7 @@ def get_ds(config):
     # tokenizer_tgt = get_or_build_tokenizer(config, ds, config['lang_tgt'])
 
     # 0.1 % as the validation dataset for early stop
-    val_ds_size = int(0.0001 * len(ds_raw))
+    val_ds_size = int(0.001 * len(ds_raw))
     train_ds_size  = len(ds_raw) - val_ds_size
     train_ds_raw, val_ds_raw = random_split(ds_raw, [train_ds_size, val_ds_size])
 
