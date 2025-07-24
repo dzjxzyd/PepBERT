@@ -82,3 +82,5 @@ with torch.no_grad():
 print("Shape of emb_avg:", emb_avg.shape)
 print("emb_avg:", emb_avg)
 ```
+### Acknowledgment
+Portions of this work were supported by the National Science Foundation CICI Program (2419880)
