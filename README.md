@@ -1,4 +1,4 @@
-This is the official repository for the paper: [Zhenjiao Du, Doina Caragea, Xiaolong Guo, Yonghui Li. PepBERT: Lightweight language models for bioactive peptide representation（](https://www.biorxiv.org/content/10.1101/2025.04.08.647838v2)
+This is the official repository for the paper: [Zhenjiao Du, Doina Caragea, Xiaolong Guo, Yonghui Li. PepBERT: Lightweight language models for bioactive peptide representation](https://www.biorxiv.org/content/10.1101/2025.04.08.647838v2)
 
 All pretrained models in this repository have been uploaded to Hugging Face for easy access. Usage tutorials are provided in the respective README.md files on each model’s Hugging Face page.
 
